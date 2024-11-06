@@ -1,0 +1,22 @@
+ELEMENTO EN BLOQUE: 
+    Ocupa todo el espacio del elemento asi este vacio
+
+    -   address, article, aside, audio
+    -   blockquote, canvas, dd
+    -   div, dl, fieldset, figcaption
+    -   figure, footer, form, h1-h6
+    -   header, hgroup, hr, li, main
+    -   nav, noscript, ol, p, pre
+    -   section, table, tfoot, ul, video
+
+
+
+ELEMENTO EN LINEA: 
+    Ocupa solo el espacio usado
+
+    -   b, big, i, small, tt
+    -   abbr, acronym, cite, code, dfn
+    -   em, kbd, strong, samp, time, var
+    -   bdo, a, br, img, map, object, g, script
+    -   span, sub, sup, button
+    -   input, label, select, textarea

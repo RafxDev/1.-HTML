@@ -1,0 +1,9 @@
+--------> Estructura Metadato <-------
+
+        <meta name="metadato" content="valor" http-equiv="cabecera-http" schema="esquema">
+
+<meta>                  ----> Etiqueta Meta
+name="metadato"         ----> Nombre Metadato
+content="valor"         ----> Valor Metadato
+http-equiv="cabecera"   ----> Cabecera Web
+schema="esquema"        ----> Esquema Web
